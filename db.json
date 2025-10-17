@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amadou Sow",
+      "email": "amadou@example.com",
+      "age": 28,
+      "ville": "Dakar"
+    },
+    {
+      "id": 2,
+      "name": "Fatou Diop",
+      "email": "fatou@example.com",
+      "age": 25,
+      "ville": "Thiès"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Ordinateur HP",
+      "price": 350000,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Téléphone Samsung",
+      "price": 180000,
+      "stock": 30
+    }
+  ]
+}
